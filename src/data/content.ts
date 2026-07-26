@@ -68,7 +68,7 @@ export const heartMemoryPhotos: Photo[] = [
   },
   {
     id: 'hm-school-1',
-    file: 'school-1.JPG',
+    file: 'school-1.jpg',
     caption: 'Before I knew how much this would matter',
     alt: 'Anjani, an early memory',
   },
