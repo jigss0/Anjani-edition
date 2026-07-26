@@ -15,60 +15,50 @@ import type {
  */
 
 export const coverContent = {
-  eyebrow: 'A Keepsake Collector\u2019s Edition',
+  eyebrow: 'A Keepsake Collector’s Edition',
   title: 'The Anjani Edition',
-  subtitle: 'A scrapbook of us, kept somewhere it can\u2019t get lost.',
-  issueLine: 'Issue No. 01 \u2014 Printed With Love',
+  subtitle: 'A scrapbook of us, kept somewhere it can’t get lost.',
+  issueLine: 'Issue No. 01 — Printed With Love',
 };
 
 export const storyBeats: StoryBeat[] = [
   {
     heading: 'This Is Our Story',
-    body:
-      'Not a card, not a speech, just the truth written down: this is us, collected in one place, because some things deserve to be kept somewhere better than a phone gallery. Anjani, everything after this page actually happened \u2014 no exaggeration required.',
+    body: `Not every love story needs a perfect beginning or a dramatic ending. Some simply grow through ordinary conversations, shared laughter, unexpected arguments, silent support, and countless little moments that nobody else notices. That's what this is. Not a birthday card, not a fancy website, but a small place where our memories can live forever. Every page after this belongs to us, and every word is written because loving you has become my favourite part of life. ❤️`,
   },
   {
     heading: 'How It Started',
-    body:
-      'When I think about where all of this began, I don't remember the exact time or the exact words anymore—I remember the feeling. ❤️ What started as just another conversation slowly became the part of my day I looked forward to the most. Every message from you somehow made everything else feel lighter. I didn't realize it then, but somewhere between our random talks, silly jokes, and late-night conversations... you quietly became my favourite person. Looking back now, I smile because neither of us knew we were accidentally writing the first page of something so beautiful. 🌸',
+    body: `Sometimes I wonder if we would have ever guessed where our first conversation would lead us. At that moment, we were just two people talking, without knowing we were slowly becoming each other's comfort. Every message made me smile a little more, every conversation lasted a little longer, and before I even realized it, talking to you had quietly become the best part of my day. Looking back now, I don't remember every sentence we exchanged—but I'll never forget how you made me feel from the very beginning. 🌸`,
   },
   {
-    heading: 'College \u2014 Waiting, Canteens, Inside Jokes',
-    body:
-      'Nobody warns you that the most ordinary parts of college \u2014 the ten minutes between classes, the wrong side of a crowded canteen table \u2014 are the ones you\u2019ll actually remember. [[Write here: a specific college memory \u2014 waiting for each other, a canteen order, an inside joke, a lecture neither of us paid attention to.',
+    heading: 'College — Waiting, Canteens, Inside Jokes',
+    body: `College gave us classrooms, assignments and lectures, but none of those are the memories that stayed with me. I remember waiting outside your class, sharing snacks that somehow tasted better because you were there, laughing over jokes that nobody else understood, and finding excuses to spend just five more minutes together before going home. Those ordinary college days slowly became the most extraordinary memories of my life. Whenever I think of college, I don't remember the buildings—I remember you. 🫶`,
   },
   {
     heading: '6 March',
-    body:
-      'Some days rearrange everything that comes after them, quietly, without asking permission. 6 March is one of mine. [[Write here: what actually happened that day \u2014 where we were, what led up to it, what you remember most clearly about that first kiss.]]',
+    body: `There are dates people celebrate because everyone tells them to. Then there are dates that quietly become unforgettable because your heart decides they matter. 6 March is that day for me. 💙 I still remember the nervousness, the excitement, and the way the whole world seemed to disappear for a few seconds. Our first kiss wasn't just a beautiful memory—it became the moment I realized I wanted every tomorrow to somehow include you. No matter how many years pass, that day will always make me smile the same way it did the first time. 💋✨`,
   },
   {
-    heading: 'Everywhere We\u2019ve Been',
-    body:
-      'College never felt special because of the classrooms or lectures—it felt special because you were there. 🫶 Those few minutes spent waiting for each other outside class somehow became the best part of the day. The canteen food wasn't even that good, but sharing it with you made it unforgettable. We laughed at things nobody else understood, ignored half the lectures because we were too busy talking, and somehow turned ordinary college days into memories I'll probably carry for the rest of my life. Sometimes I wish I could relive just one random college afternoon with you again. ☀️',
+    heading: 'Everywhere We’ve Been',
+    body: `It's funny how places become special because of the people you're with. We've visited cafés, roads, parks, and places that probably don't mean much to anyone else. But every one of them reminds me of us. Every drive, every walk, every random plan that somehow turned into an unforgettable day became another page of our story. I don't think my favourite place has ever been a location—it has always been wherever you're standing beside me. 🚗🌅❤️`,
   },
   {
     heading: 'Home, In Between',
-    body:
-      'Some dates are just dates on a calendar. But 6 March became something my heart will never forget. 💙 I can still remember how nervous I was, how everything around us suddenly felt quieter, and how time almost stopped for a moment. That first kiss wasn't just about the kiss—it was the moment I realized I never wanted to imagine my future without you in it. Every time I think about that day, I don't just remember what happened... I remember exactly how happy you made me feel. That memory will always have a permanent place in my heart. 💋✨',
+    body: `Some of my favourite memories don't come from birthdays or celebrations. They come from ordinary evenings—walking around the apartment or the complex, talking about absolutely nothing, sitting together in comfortable silence, or simply existing beside each other after a long day. Those moments looked ordinary from the outside, but they quietly became my definition of home. You made simple moments feel extraordinary, and somehow every place with you feels safe. 🏡🤍`,
   },
   {
     heading: 'The Days We Miss',
-    body:
-      'Not sad, just fond \u2014 the kind of missing that comes from good memories instead of bad ones. There are afternoons we didn\u2019t think twice about at the time that I\u2019d trade a lot to have back exactly as they were: unplanned, unhurried, no reason to check the clock. I catch myself replaying them sometimes, not because I need to, but because they\u2019re good company.',
+    body: `Sometimes I miss days that didn't even feel important while we were living them. Random afternoons, long conversations, silly arguments that ended with laughter, waiting for each other without checking the time... I never knew those little moments would become the ones I'd replay the most. They remind me that happiness doesn't always come from big events. Sometimes it simply comes from spending another ordinary day with the person you love. 🥹❤️`,
   },
   {
     heading: 'The Hard Days',
-    body:
-      'I wasn\u2019t always easy to love, and there were days I made this harder than it needed to be. I\u2019m sorry for the ones where I let frustration talk before I did. What I know now is that the hard days didn\u2019t break anything \u2014 they just showed me, plainly, how much I didn\u2019t want to lose. Thank you for staying through the versions of me that were still figuring it out. I\u2019m still figuring it out. I just want to do it with you.',
+    body: `We haven't always gotten everything right, and maybe that's what makes our story real. There were moments when I misunderstood you, moments when my frustration spoke louder than my heart, and moments I wish I could do differently. I'm sorry for every time I made things harder than they needed to be. Thank you for choosing to stay, for believing in us even when things weren't easy. Every difficult day taught me that losing an argument is nothing compared to losing you. I'll always keep trying to become someone who loves you better than yesterday. 🫂💙`,
   },
   {
     heading: 'Still Writing',
-    body:
-      'This page isn\u2019t finished, and it\u2019s not supposed to be \u2014 there\u2019s a lot of story left, and every bit of it, I want with you.',
+    body: `This isn't the end of our story. It's only the end of this page. There are still so many memories waiting for us—more road trips, more random late-night conversations, more adventures, more photographs, more dreams, and countless ordinary days that will quietly become extraordinary because we're living them together. If life keeps writing new chapters, I hope every single one still has your name beside mine. 📖❤️✨`,
   },
 ];
-
 export const heartMemoryPhotos: Photo[] = [
   {
     id: 'hm-hero',
@@ -107,49 +97,49 @@ export const hiddenMemoryCards: MemoryCard[] = [
     id: 'mem-early-1',
     file: 'early-1.JPG',
     title: 'Before We Had A Name For It',
-    note: 'Some of my favourite memories aren't from big celebrations—they're from the quiet moments nobody else would even notice. 🏡 Sitting together after a long day, talking about nothing and everything at the same time, walking around the apartment or the complex without any real destination, stealing little moments before saying goodbye... those ordinary evenings slowly became my definition of home. You turned simple moments into memories I never want to forget, and somehow being with you has always felt like the safest place I've ever known. 🤍',
+    note: `Sometimes I look at this picture and smile because nobody else would ever understand why it means so much to me. It wasn't about doing something extraordinary—it was simply another moment with you. Looking back now, I realize these ordinary little memories slowly became the strongest parts of our story. 📸❤️`,
     alt: 'Anjani, an early memory together',
   },
   {
     id: 'mem-early-2',
     file: 'early-2.JPG',
     title: 'Us, Before We Said It Out Loud',
-    note: 'Looking back, I think I already knew. I just hadn\u2019t said it yet.',
+    note: `Even before we admitted anything, I think my heart had already decided. Every time I saw you, every conversation, every smile... something inside me quietly whispered that you were becoming much more than just another person in my life. 🌸`,
     alt: 'Anjani, another early moment',
   },
   {
     id: 'mem-1',
     file: 'memory-1.JPG',
     title: 'No Occasion Needed',
-    note: 'A day that didn\u2019t need a reason to end up being one of the good ones.',
+    note: `One of my favourite things about us is that we never needed birthdays or celebrations to make memories. Some of my happiest days with you happened for absolutely no reason at all, and somehow those are the ones I treasure the most. 🤍`,
     alt: 'A candid memory',
   },
   {
     id: 'mem-2',
     file: 'memory-2.JPG',
     title: 'The Quiet Ones',
-    note: 'You have a way of making the in-between minutes feel worth keeping.',
+    note: `There is something beautiful about the moments where nothing exciting was happening. Just sitting beside you, talking about random things, or simply enjoying each other's company somehow became enough. Those peaceful moments still feel like home to me. 🏡`,
     alt: 'A candid memory',
   },
   {
     id: 'mem-3',
     file: 'memory-3.jpg',
     title: 'Off-Script',
-    note: 'Nobody planned this. Falling for you is still the best unplanned thing that\u2019s happened to me.',
+    note: `Nobody plans to fall in love. It just happens somewhere between conversations, laughter, shared memories and countless little moments. Meeting you will always be my favourite beautiful accident. ❤️`,
     alt: 'A candid memory',
   },
   {
     id: 'mem-4',
     file: 'memory-4.JPG',
     title: 'Golden Hour, Golden You',
-    note: 'The light was good that day. You were better.',
+    note: `The sunset looked beautiful that day, but somehow you still managed to outshine it. Every time I look at this picture, I don't just remember how you looked—I remember how unbelievably lucky I felt standing beside you. 🌅`,
     alt: 'A candid memory',
   },
   {
     id: 'mem-5',
     file: 'memory-5.JPG',
     title: 'To Be Continued',
-    note: 'Left unfinished on purpose \u2014 I want a lot more of these with you.',
+    note: `This isn't my favourite picture because it's perfect. It's my favourite because it reminds me that our best memories still haven't happened yet. I can't wait to fill the rest of our album together. 📖🩵`,
     alt: 'A candid memory',
   },
 ];
@@ -157,34 +147,34 @@ export const hiddenMemoryCards: MemoryCard[] = [
 export const letterContent = {
   heading: 'A Letter, Folded Twice',
   paragraphs: [
-    'Dear Anjani,',
-    'I don\u2019t say this enough, so I\u2019m putting it somewhere it can\u2019t get lost in a busy day: I am endlessly, quietly grateful for you \u2014 for the jokes that only land because of how you tell them, the calls that run too late, and the way you show up without needing to be asked twice.',
-    'This isn\u2019t attached to a date on a calendar. It\u2019s just true, on an ordinary day, the way it\u2019s true on all the others.',
-    'Here\u2019s to more of this \u2014 the comfort, the chaos, and everything soft and sure in between.',
+    `Dear Anjani,`,
+    `If there is one thing I hope you never forget, it's how deeply you are loved. You have become such an important part of my life that it's difficult to imagine my days without you in them. Thank you for every smile you've given me, every late-night conversation, every hug, every little act of love that you probably didn't even realize meant so much to me.`,
+    `I know we won't always have perfect days. We'll disagree, we'll make mistakes, and life will challenge us sometimes. But if there's one promise I want you to believe, it's this: no difficult day will ever make me stop choosing you. Loving you has never been about perfection—it's about choosing the same person again and again, even on the hard days.`,
+    `I hope years from now we look back at this little website and laugh at how young we were, while creating even more memories together. Until then, thank you for being my safest place, my biggest comfort, and my favourite person. I love you more than words could ever explain. ❤️`,
   ],
   signature: 'Forever your Bandar 🐒🩵',
 };
 
 export const ourForeverEntries: OurForeverEntry[] = [
   {
-    label: 'TRAVEL',
-    title: 'Somewhere We Haven\u2019t Been Yet',
-    body: 'A list of places we keep saying \u201csomeday\u201d about \u2014 I\u2019d like to start crossing them off with you, not just talking about them.',
+    label: 'OUR TRAVELS',
+    title: 'Every Destination, Together',
+    body: `I don't really have a dream destination anymore. Every place becomes my favourite as long as you're standing next to me. I hope we collect passport stamps, random café receipts, blurry selfies and unforgettable sunsets together for the rest of our lives. ✈️❤️`,
   },
   {
-    label: 'GROWING UP, TOGETHER',
-    title: 'Figuring It Out As We Go',
-    body: 'Neither of us has this fully worked out, and I don\u2019t think we\u2019re supposed to. I just want to keep figuring it out with the same person.',
+    label: 'OUR FUTURE',
+    title: 'Growing Together',
+    body: `Life is going to change us. We'll grow older, busier and hopefully wiser. But no matter what changes around us, I hope we never stop making time for each other, laughing together, and reminding ourselves why we fell in love in the first place. 🌱🩵`,
   },
   {
-    label: 'THE ORDINARY YEARS',
-    title: 'Getting To Be Boring Together',
-    body: 'Not every chapter needs to be an adventure. Some of my favourite ones with you have just been quiet Tuesdays, and I want a few thousand more of those too.',
+    label: 'OUR HOME',
+    title: 'The Little Things',
+    body: `I dream about the ordinary things more than the extraordinary ones. Lazy Sundays, grocery shopping together, cooking dinner, watching movies, decorating our home, arguing over what to eat and laughing five minutes later. Those simple moments are the future I want most. 🏡`,
   },
   {
-    label: 'CHOOSING YOU',
-    title: 'Every Day, On Purpose',
-    body: 'Not because I have to. Because out of every version of my life I can imagine, the ones with you in them are the only ones I actually want.',
+    label: 'FOREVER',
+    title: 'Choosing You',
+    body: `If life gave me another chance to start over, I'd still choose the same conversations, the same memories, the same first kiss, the same laughter, and the same person. Out of every version of my future I can imagine, my favourite one is still the one that has you in it. ❤️`,
   },
 ];
 
@@ -293,7 +283,14 @@ export const openWhenNotes: OpenWhenNote[] = [
 
 export const backCoverContent = {
   heading: 'One Last Page',
-  body:
-    'This isn\u2019t the end of our story \u2014 it\u2019s only the last page of this website. Everything we\u2019ve actually lived, the good days and the hard ones, has made me love you more, not less. Thank you for choosing me. Thank you for staying. I\u2019ll keep choosing you, on purpose, every single day \u2014 and out of every chapter life hands us, my favourite one will always be the one we\u2019re in right now.',
+  body: `If you've reached this page, then you've just walked through our little scrapbook. Every photo, every paragraph and every memory here exists because you became one of the most beautiful parts of my life. Thank you for every laugh we've shared, every difficult day we've survived together, every hug, every adventure and every ordinary moment that quietly became unforgettable.
+
+I don't know exactly what the future has planned for us, but I do know one thing with complete certainty—I want you beside me while we discover it.
+
+No matter how many pages life gives us after this one, I'll keep choosing you, celebrating you, supporting you and loving you with my whole heart.
+
+This website may have an ending...
+
+But our story never will. ❤️✨`,
   signature: 'Forever your Bandar 🐒🩵',
 };
