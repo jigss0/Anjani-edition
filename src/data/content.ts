@@ -96,7 +96,7 @@ export const heartMemoryPhotos: Photo[] = [
   },
   {
     id: 'hm-motion-2',
-    file: 'motion-2.jpg',
+    file: 'motion-2.JPG',
     caption: 'Always moving, always the best part of whatever day this was',
     alt: 'Anjani in a candid moment',
   },
@@ -105,28 +105,28 @@ export const heartMemoryPhotos: Photo[] = [
 export const hiddenMemoryCards: MemoryCard[] = [
   {
     id: 'mem-early-1',
-    file: 'early-1.jpg',
+    file: 'early-1.JPG',
     title: 'Before We Had A Name For It',
     note: '[[Write here: what this photo is from \u2014 a specific memory only the two of us would recognise.]]',
     alt: 'Anjani, an early memory together',
   },
   {
     id: 'mem-early-2',
-    file: 'early-2.jpg',
+    file: 'early-2.JPG',
     title: 'Us, Before We Said It Out Loud',
     note: 'Looking back, I think I already knew. I just hadn\u2019t said it yet.',
     alt: 'Anjani, another early moment',
   },
   {
     id: 'mem-1',
-    file: 'memory-1.jpg',
+    file: 'memory-1.JPG',
     title: 'No Occasion Needed',
     note: 'A day that didn\u2019t need a reason to end up being one of the good ones.',
     alt: 'A candid memory',
   },
   {
     id: 'mem-2',
-    file: 'memory-2.jpg',
+    file: 'memory-2.JPG',
     title: 'The Quiet Ones',
     note: 'You have a way of making the in-between minutes feel worth keeping.',
     alt: 'A candid memory',
@@ -140,14 +140,14 @@ export const hiddenMemoryCards: MemoryCard[] = [
   },
   {
     id: 'mem-4',
-    file: 'memory-4.jpg',
+    file: 'memory-4.JPG',
     title: 'Golden Hour, Golden You',
     note: 'The light was good that day. You were better.',
     alt: 'A candid memory',
   },
   {
     id: 'mem-5',
-    file: 'memory-5.jpg',
+    file: 'memory-5.JPG',
     title: 'To Be Continued',
     note: 'Left unfinished on purpose \u2014 I want a lot more of these with you.',
     alt: 'A candid memory',
