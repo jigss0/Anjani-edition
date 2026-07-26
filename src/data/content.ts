@@ -162,7 +162,7 @@ export const letterContent = {
     'This isn\u2019t attached to a date on a calendar. It\u2019s just true, on an ordinary day, the way it\u2019s true on all the others.',
     'Here\u2019s to more of this \u2014 the comfort, the chaos, and everything soft and sure in between.',
   ],
-  signature: '\u2014 \ud83d\udc12🩵',
+  signature: 'Forever your Bandar 🐒🩵',
 };
 
 export const ourForeverEntries: OurForeverEntry[] = [
