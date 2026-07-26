@@ -62,7 +62,7 @@ export function CountdownPage({ onUnsealed }: CountdownPageProps) {
           </div>
 
           <p className="mt-7 font-body text-xs italic text-plum/50">
-            Opens midnight, 22 July &middot; Asia/Kolkata
+            Exclusive For You 🤍
           </p>
         </div>
 
