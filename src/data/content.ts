@@ -30,7 +30,7 @@ export const storyBeats: StoryBeat[] = [
   {
     heading: 'How It Started',
     body:
-      '[[Write here: our first real conversation \u2014 where we were, what we were talking about, and the exact moment it stopped feeling like small talk.]]',
+      '["When I think about where all of this began, I don't remember the exact time or the exact words anymore—I remember the feeling. ❤️ What started as just another conversation slowly became the part of my day I looked forward to the most. Every message from you somehow made everything else feel lighter. I didn't realize it then, but somewhere between our random talks, silly jokes, and late-night conversations... you quietly became my favourite person. Looking back now, I smile because neither of us knew we were accidentally writing the first page of something so beautiful. 🌸"]',
   },
   {
     heading: 'College \u2014 Waiting, Canteens, Inside Jokes',
@@ -45,12 +45,12 @@ export const storyBeats: StoryBeat[] = [
   {
     heading: 'Everywhere We\u2019ve Been',
     body:
-      '[[Write here: our outings and adventures \u2014 a specific trip, an unplanned drive, getting caught in the rain, the food place we always end up at, the road we\u2019ve walked more times than we can count.]]',
+      '["College never felt special because of the classrooms or lectures—it felt special because you were there. 🫶 Those few minutes spent waiting for each other outside class somehow became the best part of the day. The canteen food wasn't even that good, but sharing it with you made it unforgettable. We laughed at things nobody else understood, ignored half the lectures because we were too busy talking, and somehow turned ordinary college days into memories I'll probably carry for the rest of my life. Sometimes I wish I could relive just one random college afternoon with you again. ☀️"]',
   },
   {
     heading: 'Home, In Between',
     body:
-      '[[Write here: the apartment, the complex, late evenings that turned into something worth remembering \u2014 the small, unremarkable-on-paper moments that quietly became home.]]',
+      '["Some dates are just dates on a calendar. But 6 March became something my heart will never forget. 💙 I can still remember how nervous I was, how everything around us suddenly felt quieter, and how time almost stopped for a moment. That first kiss wasn't just about the kiss—it was the moment I realized I never wanted to imagine my future without you in it. Every time I think about that day, I don't just remember what happened... I remember exactly how happy you made me feel. That memory will always have a permanent place in my heart. 💋✨"]',
   },
   {
     heading: 'The Days We Miss',
@@ -107,7 +107,7 @@ export const hiddenMemoryCards: MemoryCard[] = [
     id: 'mem-early-1',
     file: 'early-1.JPG',
     title: 'Before We Had A Name For It',
-    note: '[[Write here: what this photo is from \u2014 a specific memory only the two of us would recognise.]]',
+    note: '["Some of my favourite memories aren't from big celebrations—they're from the quiet moments nobody else would even notice. 🏡 Sitting together after a long day, talking about nothing and everything at the same time, walking around the apartment or the complex without any real destination, stealing little moments before saying goodbye... those ordinary evenings slowly became my definition of home. You turned simple moments into memories I never want to forget, and somehow being with you has always felt like the safest place I've ever known. 🤍"]',
     alt: 'Anjani, an early memory together',
   },
   {
@@ -295,5 +295,5 @@ export const backCoverContent = {
   heading: 'One Last Page',
   body:
     'This isn\u2019t the end of our story \u2014 it\u2019s only the last page of this website. Everything we\u2019ve actually lived, the good days and the hard ones, has made me love you more, not less. Thank you for choosing me. Thank you for staying. I\u2019ll keep choosing you, on purpose, every single day \u2014 and out of every chapter life hands us, my favourite one will always be the one we\u2019re in right now.',
-  signature: '\u2014 \ud83d\udc12🩵',
+  signature: 'Forever your Bandar 🐒🩵',
 };
